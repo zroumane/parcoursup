@@ -1,0 +1,14 @@
+{
+  "name": "parcoursup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dayjs": "^1.11.2",
+    "dotenv": "^16.0.1",
+    "google-spreadsheet": "^3.3.0",
+    "node-fetch": "^3.2.5",
+    "node-html-parser": "^5.3.3"
+  }
+}
